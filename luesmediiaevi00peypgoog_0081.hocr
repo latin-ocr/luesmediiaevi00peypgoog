@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./luesmediiaevi00peypgoog_0081.png"; bbox 0 0 3074 5474; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 811 4362 1351 4448">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 811 4362 1351 4448">
+     <span class='ocr_line' id='line_1_1' title="bbox 811 4362 1351 4448; baseline 0.004 -23"><span class='ocrx_word' id='word_1_1' title='bbox 811 4365 835 4413; x_wconf 80' lang='lat'>&#39;-</span> <span class='ocrx_word' id='word_1_2' title='bbox 858 4388 871 4403; x_wconf 93' lang='lat'>··</span> <span class='ocrx_word' id='word_1_3' title='bbox 889 4386 982 4448; x_wconf 68' lang='grc' dir='ltr'>;·.··.ζ·.</span> <span class='ocrx_word' id='word_1_4' title='bbox 997 4363 1107 4425; x_wconf 61' lang='grc' dir='ltr'>τὶζζὲτ.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1121 4362 1351 4427; x_wconf 59' lang='grc' dir='ltr'>ἶτιῡςῡίιοιιπειι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 676 4476 1354 4561">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 676 4476 1354 4561">
+     <span class='ocr_line' id='line_1_2' title="bbox 676 4476 1354 4561; baseline -0.004 -17"><span class='ocrx_word' id='word_1_6' title='bbox 676 4504 704 4526; x_wconf 85' lang='grc'>··</span> <span class='ocrx_word' id='word_1_7' title='bbox 727 4482 874 4543; x_wconf 72' lang='grc'><strong><em>·’.·--·,</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 903 4482 958 4543; x_wconf 70' lang='grc' dir='ltr'>Ξ.-·,·</span> <span class='ocrx_word' id='word_1_9' title='bbox 980 4481 1039 4543; x_wconf 60' lang='lat'>=÷3</span> <span class='ocrx_word' id='word_1_10' title='bbox 1059 4500 1123 4541; x_wconf 56' lang='lat' dir='ltr'>wat</span> <span class='ocrx_word' id='word_1_11' title='bbox 1142 4479 1217 4541; x_wconf 73' lang='lat' dir='ltr'>heel</span> <span class='ocrx_word' id='word_1_12' title='bbox 1235 4476 1354 4561; x_wconf 76' lang='lat' dir='ltr'>talrijk</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1542 5474">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1542 5474">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1542 5474; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1542 5474; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
